@@ -1,1 +1,1 @@
-# Model_Predictive_Control_-MPC-
+# Model_Predictive_Control_MPC
