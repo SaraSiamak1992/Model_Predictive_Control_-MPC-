@@ -7,3 +7,6 @@ These pdfs are created by Professor Ali Akbar Safavi at Shiraz University in Ira
 * Professor Ali Akbar Safavi website address: http://safavi.home.shirazu.ac.ir;
 
 * E-mail address: safavi@shirazu.ac.ir
+
+You can provide the book entitled "Model Predictive Control" and Authors: Camacho, Eduardo F., Bordons Alba, Carlos  
+from: https://www.springer.com/gp/book/9781852336943
